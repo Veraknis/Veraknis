@@ -1,6 +1,5 @@
-![MasterHead](https://giffiles.alphacoders.com/174/1744.gif)
 <h1 align="center">Hi, I'm Veraknis</h1>
-<h3 align="center">A Cyber Security Engineer and Software Developer from Europe.</h3>
+<h3 align="center">A Cyber Security Engineer and Security researcher from Europe.</h3>
 <img align="right" alt="Coding" width="4000" src="https://user-images.githubusercontent.com/107056647/216524941-d3db0012-86c9-435b-a2a2-3f5419b83592.gif">
 
 
@@ -8,11 +7,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=veraknis" alt="veraknis" /></a> </p>
 
-- I’m currently working on **RanSentinel**
+- I’m currently working on **RanSentinel** - tbc
 
 - I’m looking to collaborate on **Open Source Security Projects**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: x.com/Veraknis </h3>
 <p align="left">
 </p>
 
