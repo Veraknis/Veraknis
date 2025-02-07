@@ -1,5 +1,5 @@
 <h1 align="center">Veraknis</h1>
-<h3 align="center">A Cyber Security Engineer and Security researcher from Europe.</h3>
+<h3 align="center">A Cyber Security Engineer and Security Researcher.</h3>
 <img align="right" alt="Coding" width="4000" src="https://user-images.githubusercontent.com/107056647/216524941-d3db0012-86c9-435b-a2a2-3f5419b83592.gif">
 
 
