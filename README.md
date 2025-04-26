@@ -9,9 +9,8 @@
 
 - I’m currently working on **RanSentinel** - tbc
 
-- I’m looking to collaborate on **Open Source Security Projects**
+- I’m looking to collaborate on **Open Source Security Projects** AND **Any Interesting Dev Projects**
 
-<h3 align="left">Connect with me: x.com/Veraknis </h3>
 <p align="left">
 </p>
 
