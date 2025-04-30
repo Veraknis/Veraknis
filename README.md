@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=veraknis&label=Profile%20views&color=0e75b6&style=flat" alt="veraknis" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=veraknis" alt="veraknis" /></a> </p>
+
 
 - I’m currently working on **RanSentinel** - tbc
 
